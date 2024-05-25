@@ -1,0 +1,26 @@
+{
+    "menu": {
+        "home": "Home",
+        "form": "Form",
+        "tasksList": "Tasks List",
+        "advice": " tips on how to be successful"
+    },
+    "messages": {
+        "greetings": "Welcome to Your Most Productive Day",
+        "taskTitle": "Task Title",
+        "taskExecution": "Execution Time",
+        "listTitle": "Tasks for the Day",
+        "404": "Page Not Found",
+        "logIn": "Please log in to use the services"
+    },
+    "buttons": {
+        "logIn": "LogIn",
+        "logOut": "LogOut",
+        "start": "Let's Start",
+        "addTask": "Add Task",
+        "saveTask": "Save Task",
+        "deleteTask": "Delete",
+        "editTask": "Edit",
+        "goHome": "Go Home, Loser!"
+    }
+}

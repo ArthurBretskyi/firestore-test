@@ -1,9 +1,12 @@
-import { createStore } from "vuex";
+import { createStore } from 'vuex'
+import todolist from './modules/todolist'
+import auth from './modules/auth'
 
 export default createStore({
-  state: {},
-  getters: {},
-  mutations: {},
-  actions: {},
-  modules: {},
-});
+    namespaced: true,
+    state: {},
+    getters: {},
+    mutations: {},
+    actions: {},
+    modules: { todolist, auth },
+})
